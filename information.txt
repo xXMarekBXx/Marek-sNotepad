@@ -1,0 +1,8 @@
+Witam w moim Notatniku :)
+
+Jest to jeden z pierwszych powa¿niejszych projektów w moim wykonaniu
+jako programisty oraz jednoczeœnie pierwszy w jêzyku Java.
+
+Maroo's Note posiada takie same w³aœciwoœci jak Notatnik Windows'a.
+ 
+Mi³ego korzystania ;)
